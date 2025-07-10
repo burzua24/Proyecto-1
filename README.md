@@ -1,3 +1,4 @@
+## Autores: Bastián Urzúa Castillo
 # Análisis y Predicción del Diagnóstico de Cáncer de Mama
 
 Este proyecto aplica técnicas de aprendizaje automático supervisado para predecir si un tumor es maligno o benigno, utilizando el reconocido conjunto de datos Breast Cancer Wisconsin (Diagnostic).  
