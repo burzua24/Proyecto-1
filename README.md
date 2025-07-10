@@ -43,6 +43,3 @@ Todos los modelos se integran en `Pipeline` y se validan con `cross-validation`.
 Se recomienda usar Random Forest como modelo final por su balance óptimo entre precisión, robustez y capacidad predictiva sin errores críticos.
 
 ---
-
-## 🧱 Estructura del Repositorio
-
